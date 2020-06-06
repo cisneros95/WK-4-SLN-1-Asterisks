@@ -10,12 +10,12 @@ namespace HW_4_WK_4
     {
         static void Main(string[] args)
         {
-            DisplayAstrick(); // Calling the method
+            DisplayAsterick(); // Calling the method
         }
 
-        static void DisplayAstrick()
+        static void DisplayAsterick()
         {
-            string star = "*";
+            string star = "*"; //notes
             char space = ' ';
             int index = 1;
             int counter = 0;
